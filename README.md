@@ -1,2 +1,2 @@
-# wartimegravelstocktf2.io
+# wartimegravelstocktf2
 TF2 Personal Update 
