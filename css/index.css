@@ -1,9 +1,8 @@
 body {
-    background-color:gray;
+    color:white;
 }
 
 h1, h2, h3 {
-    background-color:white;
     color: #ffff00;
     text-align: center;
     text-transform: uppercase;
@@ -21,7 +20,7 @@ p img {
 }
 
 ol, ul {
-    background-color:yellow;
+    background-color:lightblue;
     
     border-radius:6px 6px 0px 0px;
 
